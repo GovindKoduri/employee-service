@@ -13,7 +13,7 @@ mvn package
 
 ```
 cd target
-java -jar spring-boot-rest-jpa-h2-example-0.0.1-SNAPSHOT.jar
+java -jar employee-service-0.1.jar
 ```
 
 ### Browse
